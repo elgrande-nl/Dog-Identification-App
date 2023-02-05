@@ -1,2 +1,4 @@
 /data
 bottleneck_features/DogVGG16Data.npz
+bottleneck_features/DogInceptionV3Data.npz
+bottleneck_features/DogVGG19Data.npz
