@@ -2,3 +2,5 @@
 bottleneck_features/DogVGG16Data.npz
 bottleneck_features/DogInceptionV3Data.npz
 bottleneck_features/DogVGG19Data.npz
+app/static/uploads/tmp_img.jpeg
+app/static/uploads/tmp_img.jpg
