@@ -18,8 +18,12 @@ matplotlib
 numpy
 scipy
 tqdm
-keras==2.0.2
+keras
 scikit-learn
 pillow
 ipykernel
 tensorflow
+
+
+flask==1.1.2
+flask-dropzone==1.6.0

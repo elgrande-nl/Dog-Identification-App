@@ -1,0 +1,16 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    position: relative;
+    margin: 0;
+    padding-bottom: 0;
+    min-height: 100%;
+    background-image: url('../../static/img/background.png');
+    background-size: cover;
+
+}
+
+html {
+    height: 100%;
+    box-sizing: border-box;
+
+}
